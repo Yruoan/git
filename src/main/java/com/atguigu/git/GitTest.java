@@ -17,5 +17,6 @@ public class GitTest {
         System.out.println("pull-gitee test!2");
         System.out.println("pull-gitee test!3");
         System.out.println("pull-gitee test!4");
+        System.out.println("pull-gitee test!5");
     }
 }
